@@ -1,3 +1,4 @@
+![logo](https://github.com/UsmanSajjad04-10/UsmanSajjad04-10/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Usman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
